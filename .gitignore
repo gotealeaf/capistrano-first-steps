@@ -17,3 +17,5 @@
 
 # Ignore IDE files
 .idea
+
+.ruby-gemset
