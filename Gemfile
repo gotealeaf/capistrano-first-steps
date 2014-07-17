@@ -40,3 +40,7 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+group :development do
+  gem 'capistrano-rails', group: :development
+  gem 'capistrano-rbenv', '~> 2.0', require: false
+end
