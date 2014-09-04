@@ -1,1 +1,1 @@
-server '188.226.190.134', user: 'root', roles: %w{web app}
+server '104.131.132.10', user: 'deployer', roles: %w{web app}
